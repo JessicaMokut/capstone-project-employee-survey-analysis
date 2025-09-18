@@ -6,7 +6,7 @@ Project Overview
 
 This project analyses 14,726 employee survey responses from Pierce County, WA:
 
-•	13,000 employees responded.
+•	12,612 employees responded.
 
 •	After data cleaning, only 3,996 responses were valid.
 
@@ -42,7 +42,7 @@ Built an interactive Power BI dashboard featuring:
 
 Key Performance Indicators (KPIs)
 
-•	Overall Responses: 13,000+
+•	Overall Responses: 12,612
 
 •	Valid Responses: 3,996 (after cleaning)
 
