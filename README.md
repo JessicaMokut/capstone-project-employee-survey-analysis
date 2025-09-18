@@ -106,8 +106,10 @@ Based on findings, Pierce County leadership could:
 
 By acting on these insights, Pierce County can boost engagement, improve communication, and foster a more motivated workforce.
 
-Download Dashboard Screenshot: <img width="664" height="774" alt="Pierce Emp_Survey" src="https://github.com/user-attachments/assets/f9f51e6e-3c55-41a5-a134-452ce3b19261" />
+Download Dashboard Screenshot: <img width="667" height="769" alt="Employee Survey Analysis Overview" src="https://github.com/user-attachments/assets/b8bf00fa-10b4-400a-a3eb-e59b221319cf" />
 
-Dashboard PDF: [Pierce County Employee Survey Analysis.pdf](https://github.com/user-attachments/files/22384628/Pierce.County.Employee.Survey.Analysis.pdf)
+
+Dashboard PDF: [Pierce County Employee Survey Analysis PDF.pdf](https://github.com/user-attachments/files/22402039/Pierce.County.Employee.Survey.Analysis.PDF.pdf)
+
 
 
